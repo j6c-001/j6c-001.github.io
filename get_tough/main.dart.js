@@ -65774,7 +65774,7 @@ gbd(a){return this.a},
 gl(a){return this.w}}
 A.Xg.prototype={
 a1N(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this
-for(s=c.a;c.c<10;){for(r=0;q=s.length,r<q;){p=s[r];++r
+for(s=c.a;c.c<4;){for(r=0;q=s.length,r<q;){p=s[r];++r
 o=s[r%q]
 n=$.aqI().h(0,B.jV).l0(c,p,o)
 if(n!=null){q=c.b
